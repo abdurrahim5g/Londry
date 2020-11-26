@@ -1,0 +1,36 @@
+
+/* animate css customize
+---------------------------------------*/
+.animated.s1{-webkit-animation-delay:.1s;animation-delay:.1s}.s2{-webkit-animation-delay:.2s;animation-delay:.2s}.s3{-webkit-animation-delay:.3s;animation-delay:.3s}.s4{-webkit-animation-delay:.4s;animation-delay:.4s}.s5{-webkit-animation-delay:.5s;animation-delay:.5s}.s6{-webkit-animation-delay:.6s;animation-delay:.6s}.s7{-webkit-animation-delay:.7s;animation-delay:.7s}.s10{-webkit-animation-delay:1s;animation-delay:1s;}
+
+/* animate css customize
+---------------------------------------*/
+
+/*scroll top btn start ------------------------*/
+
+#myBtn {
+    display: block !important;
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: #00000057;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 4px;
+    line-height: 40px;
+    transition: 1s all;
+    opacity: 0;
+    visibility: hidden;
+}
+
+#myBtn:hover {
+    background-color: #555;
+}
+/*scroll top btn end ------------------------*/

@@ -1,0 +1,18 @@
+Css ======================
+1.	owl-carowsel min css
+2.	slicknav.min.css
+3.	animate.min.css
+4.	scroll-top.css
+5.	
+6.
+
+
+
+JQuary Plugin ======================
+
+1.	Owl-carousel js
+2.	slick-nav
+3.	sticky js
+4.	wow js
+5.	scroll-top js
+6.	coming js
